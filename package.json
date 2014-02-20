@@ -1,0 +1,13 @@
+{
+  "name": "ianstormtaylor-set",
+  "description": "Set a property on a model or object.",
+  "version": "0.0.1",
+  "keywords": [
+    "set",
+    "property",
+    "model",
+    "object"
+  ],
+  "dependencies": {},
+  "license": "MIT"
+}
